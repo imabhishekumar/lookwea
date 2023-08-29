@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lookwea/static/css/main.93e04a7b.css",
+    "main.js": "/lookwea/static/js/main.295c8673.js",
+    "static/media/snow3.jpg": "/lookwea/static/media/snow3.63256622de7ea98be8e0.jpg",
+    "static/media/storm.jpg": "/lookwea/static/media/storm.2e62c8af01a4239503b7.jpg",
+    "static/media/wind.jpg": "/lookwea/static/media/wind.a340c730649241fcf712.jpg",
+    "static/media/mist3.jpg": "/lookwea/static/media/mist3.84b5c5884b18208aff8c.jpg",
+    "static/media/rain.jpg": "/lookwea/static/media/rain.638ca7dac1ab457fd57f.jpg",
+    "static/media/sunny2.jpg": "/lookwea/static/media/sunny2.2c10587f778b69e238a7.jpg",
+    "static/media/clear2.jpg": "/lookwea/static/media/clear2.64ddcd063aa6d36faa43.jpg",
+    "static/media/haze.jpg": "/lookwea/static/media/haze.358a5df2a5a0715ddbbb.jpg",
+    "static/media/clouds2.jpg": "/lookwea/static/media/clouds2.8a0a71d76a122ec257cc.jpg",
+    "static/media/clear3.jpg": "/lookwea/static/media/clear3.670bccc2b40f74ace76f.jpg",
+    "static/media/thunderstorm2.jpg": "/lookwea/static/media/thunderstorm2.f769fc6ef9ad7ff77091.jpg",
+    "index.html": "/lookwea/index.html",
+    "main.93e04a7b.css.map": "/lookwea/static/css/main.93e04a7b.css.map",
+    "main.295c8673.js.map": "/lookwea/static/js/main.295c8673.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93e04a7b.css",
+    "static/js/main.295c8673.js"
+  ]
+}
