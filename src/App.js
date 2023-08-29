@@ -20,8 +20,8 @@ function App() {
   const [location, setLocation] = useState('Delhi');
   const [iconUrl, setIconUrl] = useState('');
  
-  
-  const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=metric&appid=a6b7567e1165186be79ded4e6896c1f4`;
+ const API_KEY = process.env.REACT_APP_API_KEY
+  const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=metric&appid=${API_KEY}`;
   
   function firstLoad(){
     axios.get(url).then((response) =>{
